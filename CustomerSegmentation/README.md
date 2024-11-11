@@ -25,7 +25,7 @@ Steps Performed during EDA:
 3. Feature Engineering
 4. Data Viz and Correlation Analysis
 
-#### Model Implementation
+#### Model Implementation:
 Implemented two clustering techniques: K-means and Hierarchical Clustering.
 
 Opted for the results of hierarchical clustering.
@@ -67,7 +67,7 @@ Clusters/ segments were named accordingly after analysing the summary table as:
 |Twitter followers   |58			    | discovered the channel through Twitter, are from all around the world, lowest level of engagement and lowest expenditure         |
 
 
-#### Data Interpretation
+#### Data Interpretation:
 Clusters: 
 1. Around 48% of the users are from the US, Canada, United Kingdom, Australia and Western Europe ,and over 52% from the rest of the world.
    
